@@ -1,6 +1,7 @@
 from turtle import*
 pensize(5)
 pencolor('red')
+speed('fast')
 
 for i in range (6):
     fd(120)
