@@ -26,7 +26,7 @@ def move(box,axis, speed=1):
 
 def update():
     print('running')
-    move(b1, 'x',100)
-    move(b2, 'y',100)
+    move(b1, 'x',50)
+    move(b2, 'y',50)
 pgzrun.go()
   
