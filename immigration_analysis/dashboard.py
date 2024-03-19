@@ -1,7 +1,7 @@
-### running the dashboard ####
+## running the dashboard
 ## open the terminal
 ## cd immigration_analysis
-## streamlit run dashboard.py
+## cd immigration_analysis
 
 ## libraries import
 import streamlit as st
